@@ -1,3 +1,3 @@
-# cpp-test-repo
+# _cpp-test-repo_
 
 Тестовый репозиторий
