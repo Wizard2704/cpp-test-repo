@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 
-
 using namespace std;
 
 int main() {
@@ -19,7 +18,6 @@ int main() {
 			if (triangular_number % simple == 0) {
 				triangular_number /= simple;
 				++count;
-
 			}
 			else {
 				++simple;
