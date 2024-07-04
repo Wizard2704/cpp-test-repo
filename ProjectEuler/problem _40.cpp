@@ -7,11 +7,6 @@ using namespace std;
 
 int main()
 {
-	cout << sizeof(int16_t) << endl;
-	return 0;
-}
-
-/*
 	int num = 1;
 	string Champ;
 	while (num < 1000000) {
@@ -25,4 +20,5 @@ int main()
 		multi *= res[i] - '0';
 	}
 	cout << multi;
-*/
+}
+
